@@ -1,7 +1,9 @@
 # Data Analyst Training Program
 Learn enough in 12 weeks to get your first job as a Data Analyst
-- *Hands-on, practical projects
-- *More than the tools, learn how to think about data like an Analyst
+
+*Hands-on, practical projects*
+
+*More than the tools, learn how to think about data like an Analyst*
 
 ## Curriculum
 
