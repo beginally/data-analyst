@@ -23,11 +23,11 @@ Learn enough in 12 weeks to get your first job as a Data Analyst
 - Zapier
 
 #### Week 7-8
-- Reporting
-- BI Tools
+- Basic Reporting
+- Introducing BI with Mode
 
 #### Week 9
-- The Analyst Mindset
+- Developing an Intuition
 
 #### Week 10-12
 - Career Search Kickoff
